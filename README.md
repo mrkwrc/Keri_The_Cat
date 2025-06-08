@@ -3,7 +3,7 @@
 ## 📖 Project Overview
 
 Keri The Cat is a 2D arcade game written in Python using Pygame.
-You control a flying catship and shoot hearts to knock down pigeons, trying to achieve the highest score possible!
+You control a flying catship and release hearts to knock down pigeons, trying to achieve the highest score possible!
 
 ⚙️ Requirements
 
@@ -37,7 +37,9 @@ python cat_game.py
 Arrow keys (up/down) → Move the catship
 
 Spacebar → release hearts
+
 G → Start the Game
+
 Q → Exit the game
 
 ## 🔧 Project Structure
