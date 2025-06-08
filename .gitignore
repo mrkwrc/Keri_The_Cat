@@ -1,0 +1,4 @@
+.KERIvenv/
+.vscode/
+__pycache__/
+highscore.txt
